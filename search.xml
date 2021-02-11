@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>html</title>
+      <link href="2021/02/11/3535/"/>
+      <url>2021/02/11/3535/</url>
+      
+        <content type="html"><![CDATA[<p>标签：11111</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">&lt;html&gt;&lt;!--定义了整个 HTML 文档。--&gt;</span><br><span class="line">&lt;head&gt;&lt;!--定义html头部信息--&gt;</span><br><span class="line">&lt;title&gt;再见，时光&lt;&#x2F;title&gt;&lt;!--定义文档的标题--&gt;</span><br><span class="line">&lt;&#x2F;head&gt;</span><br><span class="line">&lt;body&gt;&lt;!--定义了 HTML 文档的主体。--&gt;</span><br><span class="line">&lt;h1&gt;再见，时光&lt;&#x2F;h1&gt;</span><br><span class="line">&lt;p&gt;如果没有遇见，就没有失去，又何必会遗憾?工作，选择就意味着接受。冷冷的冬，冷冷的城，冷冷的世界。站里的残雪几近消融，蓝莹莹的天像无垠的海，好想放一只船载我整颗心去远航，没有忧伤，没有心急。隔天轮值的夜班，清苦又烦闷。在或梦或醒时分，总能有一串急促的电铃声，把完美如织的夜撕成碎片。再美的景色，也香消玉殒。梦想与现实之间，只有一步的距离，而这一步也许我们要走一辈子。&lt;&#x2F;p&gt;&lt;!--定义段落--&gt;</span><br><span class="line">&lt;p&gt;我们一直不痛不痒，不忧伤不快乐地独自生活着，也许就是为了在适当的地点等待一个对的人。某天，没有雨，没有鱼的江岸。夕阳如酒，长堤醉人，浩渺的烟波之心有一艘捕鱼船，看不见戴着斗笠的渔夫。纹纹细浪，一次又一次撞击着脚下石砌的长堤，温柔而又执着。从不相信一见钟情，然而真正的逢着，那哒哒的马蹄声确是那么的美丽迷人。驮在马背上的不是英俊的王子，而是天使一样的云彩，让我感受到世界此刻的宁静和温馨。&lt;p&#x2F;&gt;</span><br><span class="line">&lt;p&gt;当我们的梦想在随着年龄的增长一天一天变得模糊起来，当我们的内心在随着旅程的颠簸一日一日变得没有了力量起来，我们都将被时光所遗忘。到那时，希望还能潇洒地对过去说声拜拜。&lt;&#x2F;p&gt;</span><br><span class="line">&lt;&#x2F;body&gt;</span><br><span class="line">&lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> web前端 </category>
+          
+          <category> html </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>1111</title>
+      <link href="2021/02/11/1111/"/>
+      <url>2021/02/11/1111/</url>
+      
+        <content type="html"><![CDATA[<p>1、我会发着呆，然后忘记你，接着紧紧闭上眼，想着那一天，会有人代替，让我不再想念你。——周杰伦《轨迹》 </p><p>2、我忍住哭，喜剧总是特别容易的落幕。——可米小子 </p><p>3、我不是黄蓉，我不会武功，我只要靖哥哥。——王蓉《我不黄蓉》 </p><p>4、是你放阮一个人，走过风雨的思念，真正想要对你讲，心中无别人。——五月天《心中无别人》 </p><p>5、如果你太累，即时的道别没有罪。——张国荣《玻璃之情》 </p><p>6、因为我爱你，和你没关系。——薛之谦《方圆几里》 </p><p>7、太耀眼的城市不适合看星星，就如同你的心不适合谈安定。——SHE《记得要忘记》 </p><p>8、害怕失败，谁来扶助我，怕再次孤独，独我唱歌，谁作附和？——Beyond《愿我能》 </p><p>9、若有日再遇到，盼你看见我的好，再次靠向这怀抱。——邓紫棋《失真》 </p><p>10、飞过人间的无常，才懂爱才是宝藏，不管世界变得怎么样，只要有你就会是天堂。——五月天《天使》 </p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="2021/02/10/hello-world/"/>
+      <url>2021/02/10/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>

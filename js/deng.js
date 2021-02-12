@@ -45,7 +45,7 @@ document.writeln("");
 document.writeln("<style type=\'text/css\'>");
 document.writeln(".deng-box {");
 document.writeln("	position: fixed;");
-document.writeln("	top: -70px;");
+document.writeln("	top: -75px;");
 document.writeln("	z-index: 999;");
 document.writeln("	pointer-events: none;");
 document.writeln("	transform:scale(.3);");

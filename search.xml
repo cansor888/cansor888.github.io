@@ -8,7 +8,7 @@
       <link href="2021/02/17/gwea/"/>
       <url>2021/02/17/gwea/</url>
       
-        <content type="html"><![CDATA[<p>jQuery是一个快速、简洁的JavaScript框架，是继Prototype之后又一个优秀的JavaScript代码库（或JavaScript框架）。</p><iframe width="797.5px" height="500px" src="//player.bilibili.com/player.html?aid=59837911&bvid=BV1Tt411n7cK&cid=104224492&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><p>jQuery设计的宗旨是“write Less，Do More”，即倡导写更少的代码，做更多的事情。它封装JavaScript常用的功能代码，提供一种简便的JavaScript设计模式，优化HTML文档操作、事件处理、动画设计和Ajax交互。<br><img src="https://cdn.jsdelivr.net/gh/cansor888/Daibi-mua-cdn@main/u=3573632263,2235623076&fm=26&gp=0.jpg" width="797.5px"><br>jQuery的核心特性可以总结为：具有独特的链式语法和短小清晰的多功能接口；具有高效灵活的css选择器，并且可对CSS选择器进行扩展；拥有便捷的插件扩展机制和丰富的插件。jQuery兼容各种主流浏览器，如IE 6.0+、FF 1.5+、Safari 2.0+、Opera 9.0+等</p>]]></content>
+        <content type="html"><![CDATA[<p>jQuery是一个快速、简洁的JavaScript框架，是继Prototype之后又一个优秀的JavaScript代码库（或JavaScript框架）。</p><iframe class="iframe_video" width="797.5px" height="500px" src="//player.bilibili.com/player.html?aid=59837911&bvid=BV1Tt411n7cK&cid=104224492&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><p>jQuery设计的宗旨是“write Less，Do More”，即倡导写更少的代码，做更多的事情。它封装JavaScript常用的功能代码，提供一种简便的JavaScript设计模式，优化HTML文档操作、事件处理、动画设计和Ajax交互。<br><img src="https://cdn.jsdelivr.net/gh/cansor888/Daibi-mua-cdn@main/u=3573632263,2235623076&fm=26&gp=0.jpg" width="797.5px"><br>jQuery的核心特性可以总结为：具有独特的链式语法和短小清晰的多功能接口；具有高效灵活的css选择器，并且可对CSS选择器进行扩展；拥有便捷的插件扩展机制和丰富的插件。jQuery兼容各种主流浏览器，如IE 6.0+、FF 1.5+、Safari 2.0+、Opera 9.0+等</p>]]></content>
       
       
       <categories>
